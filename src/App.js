@@ -7,7 +7,6 @@ function App() {
   return (
     <React.Fragment>
       <NavBar />
-      <h1>Welcome to CityTours</h1>
       <TourList />
     </React.Fragment>
   )
